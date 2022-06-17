@@ -8,7 +8,7 @@
   </div>
 
 ### About Me ☻
-- 🔭 I’m currently working on a Full Stack Application to help pet owners find local pet sitters in their area!
+- 🔭 Currently Working On: a Full Stack application to help pet owners find local pet sitters in their area!
 - 💻 Stack: React, JavaScript, Node.js, Express, PostgreSQL, CSS3, HTML5
 - 🔑 Motto: I am driven to always keep learning and be better everyday!
 - ✨ Fun Fact: I have three cats!
