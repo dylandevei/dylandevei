@@ -1,16 +1,15 @@
 
+<img src='https://media-exp1.licdn.com/dms/image/C5616AQGGFMpXLrO6bQ/profile-displaybackgroundimage-shrink_350_1400/0/1651019882789?e=1660780800&v=beta&t=0PK87EsaQF_V5DpPgCpKnEhdb0bGoTc8Ktr3aqrSH-A' />
+
 ### Hey y'all! I'm Dylan! 👨🏻‍💻
+---
 
-
-  
 [![dylandevei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandevei&theme=tokyonight&show_icons=true)](https://github.com/dylandevei/github-readme-stats)
-
-
-### About Me ☻
-- 🔭 Currently Working On: a Full Stack application to help pet owners find local pet sitters in their area!
-- 💻 Stack: React, JavaScript, Node.js, Express, PostgreSQL, CSS3, HTML5
-- 🔑 Motto: I am driven to always keep learning and be better everyday!
+- 💻 Currently Working On: a Full Stack application to help pet owners find local pet sitters in their area!
+- 📚 Stack: React, JavaScript, Node.js, Express, PostgreSQL, CSS3, HTML5
+- 🔑 Motto: Keep learning, stay consistent, and get better each and **every** day!
 - ✨ Fun Fact: I have three cats!
+
 
 
 
