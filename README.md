@@ -1,11 +1,10 @@
 
 ### Hey y'all! I'm Dylan! 👨🏻‍💻
 
-<div align="center"> 
+
   
 [![dylandevei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandevei&theme=tokyonight&show_icons=true)](https://github.com/dylandevei/github-readme-stats)
-  
-  </div>
+
 
 ### About Me ☻
 - 🔭 Currently Working On: a Full Stack application to help pet owners find local pet sitters in their area!
