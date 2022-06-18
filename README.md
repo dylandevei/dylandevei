@@ -1,20 +1,22 @@
 
 <img src='https://media-exp1.licdn.com/dms/image/C5616AQGGFMpXLrO6bQ/profile-displaybackgroundimage-shrink_350_1400/0/1651019882789?e=1660780800&v=beta&t=0PK87EsaQF_V5DpPgCpKnEhdb0bGoTc8Ktr3aqrSH-A' />
 
-## Hello World! 👨🏻‍💻🌐
+## Hello World! 🌐
 
 Hey y'all! My name is Dylan. I have a background in studying Management of Information Systems in college and recently completed a rigourous coding bootcamp. There I was taught how to hone my coding skills and discover effective ways in becoming an effective programmer. Although that part of my story is over, I know that I must continue to learn and push myself to my full potential to reach my goal! 
+
+✨ Fun Facts about myself: 
+- I have three cats!
+- I love to cook!
+- I participate in an adult softball league!
+
+## GitHub Stats 👨🏻‍💻
 
 [![dylandevei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandevei&theme=tokyonight&show_icons=true)](https://github.com/dylandevei/github-readme-stats)
 
 - 💻 Currently Working On: a Full Stack application to help pet owners find local pet sitters in their area!
 - 📚 Stack: React, JavaScript, Node.js, Express, PostgreSQL, CSS3, HTML5
 - 🔑 Motto: Keep learning, stay consistent, and get better each and **every** day!
-
-✨ Fun Facts about myself: 
-- I have three cats!
-- I love to cook!
-- I participate in an adult softball league!
 
 
 ## Toolbox 🧰 
