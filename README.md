@@ -3,7 +3,7 @@
 
 ## Hello World! 🌐
 
-Hey y'all! My name is Dylan. I have a background in studying Management of Information Systems in college and recently completed a rigourous coding bootcamp. There I was taught how to hone my coding skills and discovered effective ways in becoming an effective programmer. Although that part of my story is over, I know that I must continue to learn and push myself to my full potential to reach my goal! 
+Hey y'all! My name is Dylan. I have a background in studying Management of Information Systems in college and recently completed a rigourous coding bootcamp. There I was taught how to hone my coding skills and discovered efficient ways in becoming an effective programmer. Although that part of my story is over, I know that I must continue to learn and push myself to my full potential to reach my goal! 
 
 ✨ Fun Facts about myself: 
 - I have three cats!
