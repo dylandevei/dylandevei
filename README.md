@@ -11,8 +11,7 @@ Hey y'all! My name is Dylan. I have a background in studying Management of Infor
 - I participate in an adult softball league!
 
 ## GitHub Stats 👨🏻‍💻
-
-[![dylandevei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandevei&theme=tokyonight&show_icons=true)](https://github.com/dylandevei/github-readme-stats)
+![dylandevei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandevei&theme=dark&count_private=true)
 
 - 💻 Currently Working On: a Full Stack application to help pet owners find local pet sitters in their area!
 - 📚 Stack: React, JavaScript, Node.js, Express, PostgreSQL, CSS3, HTML5
