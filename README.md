@@ -31,6 +31,7 @@ Hey y'all! My name is Dylan. I have a background in studying Management of Infor
 ## Let's Connect! 💭
 <a href='https://www.linkedin.com/in/dylandevei/'> <img src="https://camo.githubusercontent.com/247da01ceb81c43b56f75e790761d624acd0634ab34eeaadbc50c3bfdafd278c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-1572B6?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"> </a>
 <a href='mailto:dylan.devei@gmail.com'> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;"> </a>
+<a href='https://github.com/dylandevei'> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" data-canonical-src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"> </a>
 
 
 ![dylandevei's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylandevei&theme=dark&count_private=true)
